@@ -1,0 +1,17 @@
+label: Image
+form:
+  properties:
+    image:
+      label: Image
+      $type: linkField
+      chooser:
+        workbenchChooser:
+          appName: dam-chooser
+    styleClass:
+      label: Style Class
+      $type: textField
+      i18n: false
+    altText:
+      label: Iamge Alt Text
+      $type: textField
+      i18n: true

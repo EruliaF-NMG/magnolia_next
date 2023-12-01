@@ -1,0 +1,17 @@
+title: TopBar
+areas:
+  imageComponent:
+    title: Image Area
+    type: single
+    availableComponents:
+      SImage:
+        id: next-atoms:components/Image
+  paraComponent:
+    title: Paragraph Area
+    type: single
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Paragraph
+        parameters:
+          text: Affected by air traffic control failures? See how we can help
+          styleClass: info-message

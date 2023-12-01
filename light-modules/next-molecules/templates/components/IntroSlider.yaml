@@ -1,0 +1,24 @@
+title: Intro Slider Area
+areas:
+  inforBannerSubHeading:
+    title: Banner Sub Heading Area
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Paragraph
+  inforBannerMainHeading:
+    title: Banner Main Heading Area
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Paragraph
+  linkButton:
+    title: Link Button Area
+    type: single
+    availableComponents:
+      Button:
+        id: next-atoms:components/Button
+  backgroundImg:
+    title: Background Image
+    type: single
+    availableComponents:
+      BackgroundImage:
+        id: next-atoms:components/BackgroundImage

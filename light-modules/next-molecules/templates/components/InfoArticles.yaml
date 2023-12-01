@@ -1,0 +1,15 @@
+title: Info Articles Area
+areas:
+  articleElementList:
+    title: Article Elements
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Paragraph
+      Button:
+        id: next-atoms:components/Button
+  articleImage:
+    title: Image Area
+    type: single
+    availableComponents:
+      Button:
+        id: next-atoms:components/Image

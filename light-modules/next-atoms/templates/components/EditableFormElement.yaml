@@ -1,0 +1,10 @@
+title: Form Element
+dialog: next-atoms:components/EditableFormElement
+areas:
+  childElement:
+    title: Form Area
+    availableComponents:
+      InputBoxWithState:
+        id: next-molecules:components/InputBoxWithState
+      ButtonWithState:
+        id: next-molecules:components/ButtonWithState

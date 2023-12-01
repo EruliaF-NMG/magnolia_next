@@ -1,0 +1,24 @@
+title: Header Info Bar
+areas:
+  imageComponent:
+    title: Header Logo
+    type: single
+    availableComponents:
+      SImage:
+        id: next-atoms:components/Image
+  infoTileComponentList:
+    title: Infor Tile Area
+    availableComponents:
+      HeaderInfoTile:
+        id: next-organisms:components/HeaderInfoTile
+  linkHeadingComponent:
+    title: Link Heading Area
+    type: single
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Paragraph
+  linkBtnComponentList:
+    title: Link Buuton Area
+    availableComponents:
+      ParaText:
+        id: next-atoms:components/Button

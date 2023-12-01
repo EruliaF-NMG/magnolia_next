@@ -1,0 +1,29 @@
+title: 'Next: Staysure'
+baseUrl: http://localhost:3000
+routeTemplate: '/api/preview?slug=/{language}{{@path}}'
+
+dialog: next-pages:pages/Staysure
+renderType: spa
+class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
+
+areas:
+  header:
+    title: Header Area
+    type: single
+    availableComponents:
+      Header:
+        id: next-organisms:components/Header
+  body:
+    title: Body Area
+    type: single
+    availableComponents:
+      Home:
+        id: next-templates:components/Home
+      Quotation:
+        id: next-templates:components/Quotation
+  footer:
+    title: Footer Area
+    type: single
+    availableComponents:
+      Footer:
+        id: next-organisms:components/Footer

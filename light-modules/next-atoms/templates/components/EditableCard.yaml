@@ -1,0 +1,8 @@
+title: Card Element
+dialog: next-atoms:components/EditableCard
+areas:
+  childElement:
+    title: Card Area
+    availableComponents:
+      EditableFormElement:
+        id: next-atoms:components/EditableFormElement

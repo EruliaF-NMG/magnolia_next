@@ -9,8 +9,9 @@
 7) Open another terminal
 8) CD next_app
 9) npm install
-10) npm run dev 
-11) Enjoy...!!
+10) npm run dev
+11) Upload img.zip file via magnolia admin tool
+12) Enjoy...!!
 
 ### DAM
 
